@@ -5,3 +5,20 @@
 .fondomenu2{
     background-color: rgb(152, 201, 27);
 }
+
+a{
+    text-decoration: none;
+}
+
+.fuente{
+    font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size:18px; 
+  color: green;
+  font-weight:bolder;
+
+
+      
+}
